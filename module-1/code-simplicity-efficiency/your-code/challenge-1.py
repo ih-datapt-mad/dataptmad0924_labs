@@ -47,6 +47,6 @@ if b not in ["plus","minus"]:
 result = calculate(num1, b, num2)                                        #llamamos a la funcion y pasamos los parametros si esta todo correcto deberia funcionar 
 
 print("the answer",result,"¡¡¡")
-
+                                                                        #comprobamos que funcione correctamente 
 
 print("Thanks for using this calculator, goodbye :)")
